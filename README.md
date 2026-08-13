@@ -1,6 +1,8 @@
 # MLH-GHW-Agents
 
-Created using Backboard.io for the MLH Gloabl Hack Week: Agents.
+Created using Backboard.io for the MLH Gloabl Hack Week: Agents. Wasn't able to finish due to tokens running out.
+
+https://github.com/user-attachments/assets/0b9d5dfa-1e57-4aa9-8d97-4ed51201c997
 
 Prompt: Build a cat-themed website using CSS/HTML/Javascript and Python with Flash on the backend. Make it clean, modern, dark mode with a galaxy accent. 
 
